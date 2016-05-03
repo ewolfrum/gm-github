@@ -1,0 +1,9 @@
+We are getting data by year. 
+
+Read data into R 
+
+Calculate gdp from population and per capita GDP
+
+Save only country, year, lifeExp and gdp to a new .csv file 
+
+
